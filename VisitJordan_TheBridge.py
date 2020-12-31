@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import winsound
 import time
 
-frequency = 3000  # Set Frequency To 2500 Hertz
+frequency = 3000  # Set Frequency To 3000 Hertz
 duration = 1000  # Set Duration To 1000 ms == 1 second
 
 minutes = int(input("Please enter the checking time(in minutes) : "))
@@ -34,5 +34,5 @@ while True:
     else:
         print("Sleeping for: %s minutes" % str(minutes))
 
-    # sleeping time is 60(seconds)* number of minutes specified
+    # sleeping time is 60(seconds)* number of specified minutes in the input
     time.sleep(minutes * 60)
