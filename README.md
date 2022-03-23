@@ -1,4 +1,4 @@
-# Gateway2Jordan_KingHusseinBridge
+# Gateway2Jordan_KingHusseinBridge (Obsolete)
 This is a web-page scraping project. It automatically checks if the King Hussein Bridge opened to welcome Palestinian passengers to pass through. Since Palestinians struggle in their travel specially in this specific point, I made this script to help them instead of manually checking the website every moment.
 
 It is scraping the webpage in the link:
